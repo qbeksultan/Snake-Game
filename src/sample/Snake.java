@@ -6,6 +6,7 @@ import java.util.Random;
 
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
+import javafx.scene.control.Button;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.canvas.Canvas;
@@ -16,9 +17,9 @@ import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 
-public class Main extends Application {
+public class Snake  {
     // variable
-    static int speed = 10;
+    static int score = 0;
     static int foodcolor = 0;
     static int width = 20;
     static int height = 20;
@@ -58,7 +59,7 @@ public class Main extends Application {
                         return;
                     }
 
-                    if (now - lastTick > 1000000000 / speed) {
+                    if (now - lastTick > 100000000) {
                         lastTick = now;
                         tick(gc);
                     }
@@ -70,6 +71,7 @@ public class Main extends Application {
 
             // control
             scene.addEventFilter(KeyEvent.KEY_PRESSED, key -> {
+
                 if (key.getCode() == KeyCode.UP) {
                     up = true;
                     if(!down){
@@ -141,10 +143,14 @@ public class Main extends Application {
     public static void tick(GraphicsContext gc) {
         if (gameOver) {
             gc.setFill(Color.RED);
-            gc.setFont(new Font("", 50));
+            gc.setFont(new Font("arial", 50));
             gc.fillText("GAME OVER", 100, 250);
+            gc.setFont(new Font("arial", 30));
+            gc.fillText("Your score: "+score, 150,150);
+            gc.setFill(Color.GREENYELLOW);
             return;
         }
+
 
         for (int i = snake.size() - 1; i >= 1; i--) {
             snake.get(i).x = snake.get(i - 1).x;
@@ -182,6 +188,7 @@ public class Main extends Application {
         // eat food
         if (foodX == snake.get(0).x && foodY == snake.get(0).y) {
             snake.add(new Corner(-1, -1));
+            score++;
             newFood();
         }
 
@@ -200,7 +207,7 @@ public class Main extends Application {
         // score
         gc.setFill(Color.WHITE);
         gc.setFont(new Font("", 30));
-        gc.fillText("Score: " + (speed - 6), 10, 30);
+        gc.fillText("Score: " + score, 10, 30);
 
         // random foodcolor
         Color cc = Color.WHITE;
@@ -210,7 +217,7 @@ public class Main extends Application {
                 cc = Color.GREEN;
                 break;
             case 1:
-                cc = Color.LIGHTBLUE;
+                cc = Color.RED;
                 break;
             case 2:
                 cc = Color.YELLOW;
