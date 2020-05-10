@@ -24,6 +24,7 @@ Free
 ## Proposed partners
 Nobody
 ## Git repository link
+https://github.com/Fattijenishbek/Snake-Game
 ## Contact person
 Name: Fatima
 
