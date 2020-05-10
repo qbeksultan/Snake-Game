@@ -1,3 +1,4 @@
+# Project Proposal
 ![image](https://user-images.githubusercontent.com/57977808/81496625-b0812180-92da-11ea-85c8-70c39c4ed279.png)
 # Title of the project [Snake-Game]
 Author of the project: [Fatima Bekmamatova COM19-A]
@@ -30,7 +31,7 @@ Surname: Bekmamatova
 
 email: fatima.bekmamatova@iaau.edu.kg
 
-
+# Description
 ![Screenshot (43)](https://user-images.githubusercontent.com/57977808/81498529-4c188f00-92e7-11ea-9296-f663d35157d6.png)
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/57977808/81498575-87b35900-92e7-11ea-8fb2-8e07bfe6ea6c.png)
