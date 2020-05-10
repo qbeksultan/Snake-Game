@@ -44,6 +44,18 @@ email: fatima.bekmamatova@iaau.edu.kg
 
 # Compulsory requirements:
 ## a)  GUI - We must create Graphical User Interface Application:
+![Screenshot (49)](https://user-images.githubusercontent.com/57977808/81499410-4cb42400-92ed-11ea-8550-b345b0a4d055.png)
+
+![Screenshot (52)](https://user-images.githubusercontent.com/57977808/81499413-52aa0500-92ed-11ea-9c08-4077466a50ae.png)
 ## b) Text I/O - We must work with files as a database (read from files, write to files)
+![Screenshot (55)](https://user-images.githubusercontent.com/57977808/81499419-67869880-92ed-11ea-881c-40e210b22694.png)
 ## c) Exceptions - We must handle exceptions using Try-Catch blocks
+![Screenshot (51)](https://user-images.githubusercontent.com/57977808/81499431-808f4980-92ed-11ea-9f40-8d98acb7c2c9.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/57977808/81499435-86852a80-92ed-11ea-850f-6ec975db55a5.png)
 ## d) Classes - We must work with classes creating objects
+![Screenshot (50)](https://user-images.githubusercontent.com/57977808/81499442-9735a080-92ed-11ea-8457-82267d2eee83.png)
+
+![Screenshot (53)](https://user-images.githubusercontent.com/57977808/81499447-9a309100-92ed-11ea-9582-167777ed111d.png)
+
+![Screenshot (56)](https://user-images.githubusercontent.com/57977808/81499450-9c92eb00-92ed-11ea-84af-52c15812fa2f.png)
