@@ -4,6 +4,7 @@ Author of the project: [Fatima Bekmamatova COM19-A]
 
 Last modified: [10.05.2020]
 # Topic addressed by the project
+[Games and Entertainment]
 # Background
 # Aim of the project
 # Objectives of the project
