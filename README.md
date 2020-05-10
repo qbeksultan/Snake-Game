@@ -6,6 +6,7 @@ Last modified: [10.05.2020]
 # Topic addressed by the project
 [Games and Entertainment]
 # Background
+In my childhood, when there were no current smartphones, I often played this game: snake, from my mother’s phone. And I was always wondering how to create this game. And now, while I am learning programming languages, the first thing that occurred in my mind was to create this game and understand how it works.
 # Aim of the project
 # Objectives of the project
 # Expected outcomes
