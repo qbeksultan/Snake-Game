@@ -5,8 +5,6 @@ import java.util.List;
 import java.util.Random;
 
 import javafx.animation.AnimationTimer;
-import javafx.application.Application;
-import javafx.scene.control.Button;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.canvas.Canvas;
@@ -206,7 +204,7 @@ public class Snake  {
 
         // score
         gc.setFill(Color.WHITE);
-        gc.setFont(new Font("", 30));
+        gc.setFont(new Font("arial", 30));
         gc.fillText("Score: " + score, 10, 30);
 
         // random foodcolor
@@ -256,7 +254,4 @@ public class Snake  {
             break;
         }
     }
-    /*public static void main(String[] args) {
-        launch(args);
-    }*/
 }
