@@ -9,8 +9,17 @@ Last modified: [10.05.2020]
 # Aim of the project
 # Objectives of the project
 # Expected outcomes
+[Good emotions]
 # Proposed activities
+[Update codes and make a good presentation.]
 # Estimative budget
+[Free]
 # Proposed partners
+[Nobody]
 # Git repository link
 # Contact person
+Name: [Fatima]
+Surname: [Bekmamatova]
+email: [fatima.bekmamatova@iaau.edu.kg]
+
+
