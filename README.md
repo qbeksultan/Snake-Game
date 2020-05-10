@@ -8,10 +8,12 @@ Last modified: [10.05.2020]
 # Background
 In my childhood, when there were no current smartphones, I often played this game: snake, from my mother’s phone. And I was always wondering how to create this game. And now, while I am learning programming languages, the first thing that occurred in my mind was to create this game and understand how it works.
 # Aim of the project
-Distract people from stressful conditions. 
+Distract people from boring or stressful conditions. 
 
-Motivate new programmers to further study the programming language.
+Motivate new programmers to further learn the programming language.
 # Objectives of the project
+This game leads to develop a huge game such as slither.io. But now, this is one of the basic levels of creating the big game.
+During working on this project, I learned how to work with JavaFX. And it will help me with my future projects.
 # Expected outcomes
 Good emotions
 # Proposed activities
