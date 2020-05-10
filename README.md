@@ -31,3 +31,10 @@ Surname: Bekmamatova
 email: fatima.bekmamatova@iaau.edu.kg
 
 
+![Screenshot (43)](https://user-images.githubusercontent.com/57977808/81498529-4c188f00-92e7-11ea-9296-f663d35157d6.png)
+
+![Screenshot (44)](https://user-images.githubusercontent.com/57977808/81498575-87b35900-92e7-11ea-8fb2-8e07bfe6ea6c.png)
+
+![Screenshot (45)](https://user-images.githubusercontent.com/57977808/81498577-8b46e000-92e7-11ea-9893-56ac28f4d177.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/57977808/81498579-8eda6700-92e7-11ea-9fec-ed730ef2c01b.png)
