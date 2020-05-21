@@ -55,8 +55,4 @@ email: fatima.bekmamatova@iaau.edu.kg
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/57977808/81499435-86852a80-92ed-11ea-850f-6ec975db55a5.png)
 ## d) Classes - We must work with classes creating objects
-![Screenshot (50)](https://user-images.githubusercontent.com/57977808/81499442-9735a080-92ed-11ea-8457-82267d2eee83.png)
-
-![Screenshot (53)](https://user-images.githubusercontent.com/57977808/81499447-9a309100-92ed-11ea-9582-167777ed111d.png)
-
-![Screenshot (56)](https://user-images.githubusercontent.com/57977808/81499450-9c92eb00-92ed-11ea-84af-52c15812fa2f.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/57977808/82522556-a2899700-9b4b-11ea-853b-64c5f85e1c14.png)
